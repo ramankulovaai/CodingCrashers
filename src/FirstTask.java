@@ -9,5 +9,7 @@ public class FirstTask {
         System.out.println("anything");
         System.out.println("Ahmed");
 
+        System.out.println("How many stars are on the flag");
+
     }
 }
