@@ -7,6 +7,7 @@ public class FirstTask {
 
         System.out.println("Enes");
         System.out.println("anything");
+        System.out.println("Ahmed");
 
     }
 }
