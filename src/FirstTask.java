@@ -3,7 +3,5 @@ public class FirstTask {
 
         System.out.println("Let's do it");
         System.out.println("احمــد");
-
     }
-
 }
