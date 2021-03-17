@@ -3,6 +3,7 @@ public class FirstTask {
         System.out.println("Let's do it");
         System.out.println("Aigerim");
         System.out.println("Erkan");
+        System.out.println("thing");
 
     }
 }
