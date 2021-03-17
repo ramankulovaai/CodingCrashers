@@ -5,5 +5,8 @@ public class FirstTask {
         System.out.println("Erkan");
 
 
+        System.out.println("Enes");
+        System.out.println("anything");
+
     }
 }
